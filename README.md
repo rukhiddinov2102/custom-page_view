@@ -1,16 +1,5 @@
-# sizeconfig
+# custom page_view usig SizeConfig
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://ibb.co/N35FwCf"><img src="https://i.ibb.co/Dbh13Wm/page1.jpg" alt="page1" border="0"></a>
+<a href="https://ibb.co/8YWgbry"><img src="https://i.ibb.co/jJckzyC/page2.jpg" alt="page2" border="0"></a>
+<a href="https://ibb.co/BHpgT7J"><img src="https://i.ibb.co/5X05sz3/page3.jpg" alt="page3" border="0"></a>
